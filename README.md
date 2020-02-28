@@ -5,6 +5,7 @@ Please install Selenium and Scrapy packages, download a chrome driver for your c
 Replace the csv readers and writers's path with your own in tourdestination\navigateTripAdvisor.py and in tourdestination\spiders\samplecountry.py
 
 Selenium is used for navigation of Trip Advisor page for all countries in tourdestination\navigateTripAdvisor.py
+
 Scrapy is used for web scraping in tourdestination\spiders\samplecountry.py
 
 To run the web scraper, 
